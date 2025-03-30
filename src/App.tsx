@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
   return (
-    <><><p>Add task</p><input name="taskInput" type="text" /></><button>submit</button></>
+    <h1>The Todo app</h1>
   )
 }
 
